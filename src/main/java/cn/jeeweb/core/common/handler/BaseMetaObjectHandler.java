@@ -7,7 +7,6 @@ import com.baomidou.mybatisplus.mapper.MetaObjectHandler;
 import cn.jeeweb.core.common.constant.DataBaseConstant;
 import cn.jeeweb.core.common.constant.DataBaseFieldConstant;
 import cn.jeeweb.modules.sys.utils.UserUtils;
-
 /**
  * 
  * All rights Reserved, Designed By www.jeeweb.cn
@@ -22,7 +21,6 @@ import cn.jeeweb.modules.sys.utils.UserUtils;
  *
  */
 public class BaseMetaObjectHandler extends MetaObjectHandler {
-
 	/**
 	 * 新增
 	 */
