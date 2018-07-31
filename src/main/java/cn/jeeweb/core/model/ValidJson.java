@@ -1,5 +1,5 @@
 package cn.jeeweb.core.model;
-
+//测试修改
 import java.io.Serializable;
 
 @SuppressWarnings("serial")
